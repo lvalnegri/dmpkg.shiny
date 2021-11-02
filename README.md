@@ -1,1 +1,1 @@
-## functions, lists, and other generic stuff to use in shiny apps
+### Functions, lists, and other generic stuff to use in shiny apps
